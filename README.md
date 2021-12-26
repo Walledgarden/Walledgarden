@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Walledgarden
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently practicing my skills.
-- 💞️ I’m looking to collaborate on Highpay-Pool.com
 - 📫 How to reach me: Walledgarden#0001 (Discord)
 
 <!---
