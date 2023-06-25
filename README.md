@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Walledgarden
 - 👀 I’m interested in coding :)
-- 📫 How to reach me: Walledgarden#0001 (Discord)
+- 📫 How to reach me: walledgarden (Discord)
 
 <!---
 Walledgarden/Walledgarden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
